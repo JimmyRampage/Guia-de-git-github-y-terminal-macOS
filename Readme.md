@@ -12,6 +12,8 @@ El repositorio esta formado por 3 contenidos principales que a su vez se dividen
 
 ### TERMINAL
 
+[Navegación de terminal](/Terminal%20macOS/0%20-%20Introducción%20e%20índice.md)
+
 ## Bibliografía
 
 El temario utilizado para la creación del repositorio es el presentado en el video [Curso de GIT desde CERO (Completo) | Lucas Dalto](https://youtu.be/9ZJ-K-zk_Go?si=rqO5tiGxiwTdOFq-).
